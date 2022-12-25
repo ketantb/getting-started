@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://static.dribbble.com/users/331265/screenshots/7172740/0906_web_animation_lina_dribbble_4x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#text{
+    font-size:400%;
+    text-align:center;
+    color:rgb(3, 255, 255);
+    font-family: cursive; 
+}
